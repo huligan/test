@@ -3,5 +3,7 @@
 class test
 {
 public:
+  test();
+  ~tes();
 protected:
 };
