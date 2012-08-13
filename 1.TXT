@@ -7,4 +7,5 @@ public:
   ~tes();
 protected:
   void ggg();
+  void release();
 };
